@@ -6,3 +6,4 @@
 * [Section 4 - Service Design](/s4.md)
 * [Section 5 - Service Transition](/s5.md)
 * [Section 6 - Service Operation](/s6.md)
+* [Section 7 - Continual Service Improvement(/s7.md)
